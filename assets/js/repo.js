@@ -63,7 +63,14 @@ var coderepos= new Vue({
                language: 'Javascript',
                location: 'https://github.com/typicode/json-server.git',
                description: 'Mock Server for quick backend prototyping and mocking '
+           },{
+             author: 'IronSummitMedia',
+             category: '前端',
+             language: 'CSS',
+             location: 'https://github.com/IronSummitMedia/startbootstrap-sb-admin-2.git',
+             description: '一个bootstrap dashboard的参考'
            }
+
        ]
    }
 });
