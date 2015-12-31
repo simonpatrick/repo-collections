@@ -69,6 +69,12 @@ var coderepos= new Vue({
              language: 'CSS',
              location: 'https://github.com/IronSummitMedia/startbootstrap-sb-admin-2.git',
              description: '一个bootstrap dashboard的参考'
+           },{
+             author: 'discourse',
+             category: 'social',
+             language: 'RUBY',
+             location: 'https://github.com/discourse/discourse.git',
+             description: '一个讨论论坛'
            }
 
        ]
