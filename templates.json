@@ -1,7 +1,7 @@
 {
-  author: 'discourse',
-  category: 'social',
-  language: 'RUBY',
-  location: 'https://github.com/discourse/discourse.git',
-  description: '一个讨论论坛'
+  author: 'robbyrussell',
+  category: 'TOOLS,BIGNAME',
+  language: 'SHELL',
+  location: 'https://github.com/robbyrussell/oh-my-zsh',
+  description: 'Oh-my-zsh'
 }

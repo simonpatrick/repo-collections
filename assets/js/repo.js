@@ -75,7 +75,27 @@ var coderepos= new Vue({
              language: 'RUBY',
              location: 'https://github.com/discourse/discourse.git',
              description: '一个讨论论坛'
+           },{
+             author: 'gocd',
+             category: 'CI/CD',
+             language: 'JAVA',
+             location: 'https://github.com/gocd',
+             description: 'ThoughtWorks开源的一个CI/CD系统'
+           },{
+             author: 'shadowsocks',
+             category: 'reading',
+             language: 'Python',
+             location: 'https://github.com/shadowsocks',
+             description: '一个有意思的工具'
+           },{
+             author: 'robbyrussell',
+             category: 'TOOLS,BIGNAME',
+             language: 'SHELL',
+             location: 'https://github.com/robbyrussell/oh-my-zsh',
+             description: 'Oh-my-zsh'
            }
+
+
 
        ]
    }
