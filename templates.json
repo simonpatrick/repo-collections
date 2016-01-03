@@ -1,7 +1,7 @@
 {
-  author: 'robbyrussell',
-  category: 'TOOLS,BIGNAME',
-  language: 'SHELL',
-  location: 'https://github.com/robbyrussell/oh-my-zsh',
-  description: 'Oh-my-zsh'
+  author: 'wnameless',
+  category: 'Interesting,COMMON',
+  language: 'JAVA',
+  location: 'https://github.com/wnameless/rubycollect4j.git'
+  description: 'JAVA for Ruby Style'
 }

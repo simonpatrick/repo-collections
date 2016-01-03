@@ -93,10 +93,25 @@ var coderepos= new Vue({
              language: 'SHELL',
              location: 'https://github.com/robbyrussell/oh-my-zsh',
              description: 'Oh-my-zsh'
+           },{
+             author: 'lukehutch',
+             category: 'Tools,COMMON',
+             language: 'JAVA',
+             location: 'https://github.com/lukehutch/fast-classpath-scanner.git'
+             description: 'Fask Classpath Scanner'
+           },{
+             author: 'RichardWarburton',
+             category: 'exercises',
+             language: 'JAVA',
+             location: 'https://github.com/RichardWarburton/java-8-lambdas-exercises.git'
+             description: 'A very good repo for Leanring JAVA8'
+           },{
+             author: 'davidminor',
+             category: 'threaddump-analyzer',
+             language: 'Ruby',
+             location: 'https://github.com/davidminor/java-thread-dump-grapher.git'
+             description: 'Ruby Scripts for JAVA Thread Dump'
            }
-
-
-
        ]
    }
 });
