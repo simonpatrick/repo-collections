@@ -141,6 +141,12 @@ var coderepos= new Vue({
              language: 'JAVA',
              location: 'https://github.com/ysc/APDPlat.git',
              description: 'JAVA WEB Framework'
+           },{
+             author: 'thobe',
+             category: 'Profiling',
+             language: 'JAVA',
+             location: 'https://github.com/thobe/thread-dump-analysis.git'
+             description: 'Another Thread Dump Analyzer'
            }
 
 
