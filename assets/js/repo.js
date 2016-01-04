@@ -111,7 +111,14 @@ var coderepos= new Vue({
              language: 'Ruby',
              location: 'https://github.com/davidminor/java-thread-dump-grapher.git'
              description: 'Ruby Scripts for JAVA Thread Dump'
+           },{
+             author: 'Cue',
+             category: 'Algorithm',
+             language: 'JAVA',
+             location: 'https://github.com/Cue/greplin-bloom-filter.git'
+             description: 'A Bloom Filter'
            }
+
        ]
    }
 });

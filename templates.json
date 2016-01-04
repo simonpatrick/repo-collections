@@ -1,7 +1,7 @@
 {
-  author: 'wnameless',
-  category: 'Interesting,COMMON',
+  author: 'Cue',
+  category: 'Algorithm',
   language: 'JAVA',
-  location: 'https://github.com/wnameless/rubycollect4j.git'
-  description: 'JAVA for Ruby Style'
+  location: 'https://github.com/Cue/greplin-bloom-filter.git'
+  description: 'A Bloom Filter'
 }
