@@ -1,7 +1,7 @@
 {
   author: 'mchr3k',
-  category: 'Utils',
+  category: 'WEB Framework',
   language: 'JAVA',
-  location: 'https://github.com/mchr3k/org.intrace.git',
-  description: 'intrace for JAVA'
+  location: 'https://github.com/ysc/APDPlat.git',
+  description: 'JAVA WEB Framework '
 }
