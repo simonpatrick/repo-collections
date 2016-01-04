@@ -117,8 +117,13 @@ var coderepos= new Vue({
              language: 'JAVA',
              location: 'https://github.com/Cue/greplin-bloom-filter.git'
              description: 'A Bloom Filter'
+           },{
+             author: 'NitorCreations',
+             category: 'Utils',
+             language: 'JAVA',
+             location: 'https://github.com/NitorCreations/java8-utils.git',
+             description: 'Java8 Collections Utils'
            }
-
        ]
    }
 });
