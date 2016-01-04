@@ -1,7 +1,7 @@
 {
-  author: 'NitorCreations',
+  author: 'mchr3k',
   category: 'Utils',
   language: 'JAVA',
-  location: 'https://github.com/NitorCreations/java8-utils.git',
-  description: 'Java8 Collections Utils'
+  location: 'https://github.com/mchr3k/org.intrace.git',
+  description: 'intrace for JAVA'
 }

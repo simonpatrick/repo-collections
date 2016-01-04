@@ -123,7 +123,21 @@ var coderepos= new Vue({
              language: 'JAVA',
              location: 'https://github.com/NitorCreations/java8-utils.git',
              description: 'Java8 Collections Utils'
+           },{
+             author: 'mchr3k',
+             category: 'Utils',
+             language: 'JAVA',
+             location: 'https://github.com/mchr3k/org.intrace.git',
+             description: 'intrace for JAVA'
+           },{
+             author: 'mchr3k',
+             category: 'Utils',
+             language: 'JAVA',
+             location: 'https://github.com/mchr3k/javathreaddumpanalyser.git',
+             description: 'Thread Dump Analyzer for JAVA'
            }
+
+
        ]
    }
 });
