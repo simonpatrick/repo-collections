@@ -153,7 +153,14 @@ var coderepos= new Vue({
              language: 'Javascript',
              location: 'https://github.com/pretenderjs/pretender.git'
              description: 'A simple mock server for developer'
+           },{
+             author: 'gregmalcolm',
+             category: 'Learning Python',
+             language: 'Python',
+             location: 'https://github.com/gregmalcolm/python_koans.git',
+             description: 'A python learning repo for basic Python conception'
            }
+
        ]
    }
 });
