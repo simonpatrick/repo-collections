@@ -159,7 +159,14 @@ var coderepos= new Vue({
              language: 'Python',
              location: 'https://github.com/gregmalcolm/python_koans.git',
              description: 'A python learning repo for basic Python conception'
+           },{
+             author: 'riobard',
+             category: 'Learning Python',
+             language: 'Python',
+             location: 'https://github.com/riobard/project-euler.git'
+             description: 'project euler solution in python'
            }
+
 
        ]
    }
