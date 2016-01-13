@@ -1,7 +1,7 @@
 {
-  author: 'gregmalcolm',
-  category: 'Learning Python',
-  language: 'Python',
-  location: 'https://github.com/gregmalcolm/python_koans.git',
-  description: 'A python learning repo for basic Python conception'
+  author: 'domnikl',
+  category: 'Learning PHP',
+  language: 'PHP',
+  location: 'https://github.com/domnikl/DesignPatternsPHP.git'
+  description: 'Design Pattern in PHP'
 }

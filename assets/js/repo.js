@@ -165,7 +165,14 @@ var coderepos= new Vue({
              language: 'Python',
              location: 'https://github.com/riobard/project-euler.git'
              description: 'project euler solution in python'
+           },{
+             author: 'domnikl',
+             category: 'Learning PHP',
+             language: 'PHP',
+             location: 'https://github.com/domnikl/DesignPatternsPHP.git'
+             description: 'Design Pattern in PHP'
            }
+
 
 
        ]
