@@ -97,25 +97,25 @@ var coderepos= new Vue({
              author: 'lukehutch',
              category: 'Tools,COMMON',
              language: 'JAVA',
-             location: 'https://github.com/lukehutch/fast-classpath-scanner.git'
+             location: 'https://github.com/lukehutch/fast-classpath-scanner.git',
              description: 'Fask Classpath Scanner'
            },{
              author: 'RichardWarburton',
              category: 'exercises',
              language: 'JAVA',
-             location: 'https://github.com/RichardWarburton/java-8-lambdas-exercises.git'
+             location: 'https://github.com/RichardWarburton/java-8-lambdas-exercises.git',
              description: 'A very good repo for Leanring JAVA8'
            },{
              author: 'davidminor',
              category: 'threaddump-analyzer',
              language: 'Ruby',
-             location: 'https://github.com/davidminor/java-thread-dump-grapher.git'
+             location: 'https://github.com/davidminor/java-thread-dump-grapher.git',
              description: 'Ruby Scripts for JAVA Thread Dump'
            },{
              author: 'Cue',
              category: 'Algorithm',
              language: 'JAVA',
-             location: 'https://github.com/Cue/greplin-bloom-filter.git'
+             location: 'https://github.com/Cue/greplin-bloom-filter.git',
              description: 'A Bloom Filter'
            },{
              author: 'NitorCreations',
@@ -145,36 +145,39 @@ var coderepos= new Vue({
              author: 'thobe',
              category: 'Profiling',
              language: 'JAVA',
-             location: 'https://github.com/thobe/thread-dump-analysis.git'
+             location: 'https://github.com/thobe/thread-dump-analysis.git',
              description: 'Another Thread Dump Analyzer'
            },{
              author: 'pretenderjs',
              category: 'Mock',
              language: 'Javascript',
-             location: 'https://github.com/pretenderjs/pretender.git'
+             location: 'https://github.com/pretenderjs/pretender.git',
              description: 'A simple mock server for developer'
            },{
              author: 'gregmalcolm',
              category: 'Learning Python',
              language: 'Python',
              location: 'https://github.com/gregmalcolm/python_koans.git',
-             description: 'A python learning repo for basic Python conception'
+             description: 'A python learning repo for basic Python conception',
            },{
              author: 'riobard',
              category: 'Learning Python',
              language: 'Python',
-             location: 'https://github.com/riobard/project-euler.git'
+             location: 'https://github.com/riobard/project-euler.git',
              description: 'project euler solution in python'
            },{
              author: 'domnikl',
              category: 'Learning PHP',
              language: 'PHP',
-             location: 'https://github.com/domnikl/DesignPatternsPHP.git'
+             location: 'https://github.com/domnikl/DesignPatternsPHP.git',
              description: 'Design Pattern in PHP'
+           },{
+             author: 'leanote',
+             category: 'Tools',
+             language: 'Javascript',
+             location: 'https://github.com/leanote/leanote.git',
+             description: '开源记事本'
            }
-
-
-
        ]
    }
 });
