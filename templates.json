@@ -1,7 +1,7 @@
 {
-  author: 'leanote',
+  author: 'erchu',
   category: 'Tools',
-  language: 'Javascript',
-  location: 'https://github.com/leanote/leanote.git',
-  description: '开源记事本'
+  language: 'JAVA',
+  location: 'https://github.com/erchu/bean-cp.git'
+  description: 'Bean Copy tools'
 }
