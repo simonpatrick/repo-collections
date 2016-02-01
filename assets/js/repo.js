@@ -183,7 +183,20 @@ var coderepos= new Vue({
              language: 'JAVA',
              location: 'https://github.com/erchu/bean-cp.git',
              description: 'Bean Copy tools'
+           },{
+             author: 'google',
+             category: 'Tools',
+             language: 'JAVA',
+             location: 'http://google.github.io/truth/usage/',
+             description: 'Google Assertion Tools'
+           },{
+             author: 'joel-costigliola',
+             category: 'Tools',
+             language: 'JAVA',
+             location: 'http://joel-costigliola.github.io/assertj/',
+             description: 'Java Assertion Tools'
            }
+
 
        ]
    }
