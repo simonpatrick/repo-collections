@@ -195,9 +195,13 @@ var coderepos= new Vue({
              language: 'JAVA',
              location: 'http://joel-costigliola.github.io/assertj/',
              description: 'Java Assertion Tools'
+           },{
+             author: 'meteor',
+             category: 'Tools',
+             language: 'JAVA',
+             location: 'https://github.com/meteor/hubble.git',
+             description: 'A tool for triaging GitHub issues'
            }
-
-
        ]
    }
 });
