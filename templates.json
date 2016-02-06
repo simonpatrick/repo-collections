@@ -1,7 +1,7 @@
 {
-  author: 'erchu',
-  category: 'Tools',
-  language: 'JAVA',
-  location: 'https://github.com/erchu/bean-cp.git'
-  description: 'Bean Copy tools'
+  author: 'RandomStorm',
+  category: 'Security',
+  language: 'PHP',
+  location: 'https://github.com/RandomStorm/DVWA.git',
+  description: 'A website for learning Security Testing'
 }
