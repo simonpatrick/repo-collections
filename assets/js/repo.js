@@ -62,7 +62,7 @@ var coderepos= new Vue({
                category: 'mockserver',
                language: 'Javascript',
                location: 'https://github.com/typicode/json-server.git',
-               description: 'Mock Server for quick backend prototyping and mocking '
+               description: 'Mock Server for quick backend prototyping and mocking'
            },{
              author: 'IronSummitMedia',
              category: '前端',
@@ -207,7 +207,22 @@ var coderepos= new Vue({
              language: 'PHP',
              location: 'https://github.com/RandomStorm/DVWA.git',
              description: 'A website for learning Security Testing'
+           },{
+             author: 'almasaeed2010',
+             category: 'dashboard',
+             language: 'Javascript',
+             location: 'https://github.com/almasaeed2010/AdminLTE.git',
+             description: 'Admin template'
+           },
+           {
+             author: 'mwarman',
+             category: 'Web Service',
+             language: 'Java',
+             location: 'https://github.com/mwarman/skeleton-ws-spring-boot.git',
+             description: 'Spring boot WebService Skelton'
            }
+
+
        ]
    }
 });
