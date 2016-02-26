@@ -220,9 +220,14 @@ var coderepos= new Vue({
              language: 'Java',
              location: 'https://github.com/mwarman/skeleton-ws-spring-boot.git',
              description: 'Spring boot WebService Skelton'
+           },
+           {
+             author: 'lukecyca',
+             category: 'DevOps',
+             language: 'Python',
+             location: 'https://github.com/lukecyca/pyzabbix.git'
+             description: 'A Zabbix API Python Client '
            }
-
-
        ]
    }
 });
