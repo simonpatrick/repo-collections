@@ -227,7 +227,22 @@ var coderepos= new Vue({
              language: 'Python',
              location: 'https://github.com/lukecyca/pyzabbix.git',
              description: 'A Zabbix API Python Client '
+           },
+           {
+             author: 'tqcenglish',
+             category: 'Learning',
+             language: 'JAVA PYTHON',
+             location: 'https://github.com/tqcenglish',
+             description: 'A Repo for learning'
+           },
+           {
+             author: 'ultimate-seed',
+             category: 'Learning',
+             language: 'Javascript',
+             location: 'https://github.com/pilwon/ultimate-seed',
+             description: 'MEAN FullStack'
            }
+
        ]
    }
 });

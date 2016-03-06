@@ -1,7 +1,7 @@
 {
-  author: 'lukecyca',
-  category: 'DevOps',
-  language: 'Python',
-  location: 'https://github.com/lukecyca/pyzabbix.git'
-  description: 'A Zabbix API Python Client '
+  author: 'ultimate-seed',
+  category: 'Learning',
+  language: 'Javascript',
+  location: 'https://github.com/pilwon/ultimate-seed',
+  description: 'MEAN FullStack'
 }
