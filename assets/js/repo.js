@@ -225,7 +225,7 @@ var coderepos= new Vue({
              author: 'lukecyca',
              category: 'DevOps',
              language: 'Python',
-             location: 'https://github.com/lukecyca/pyzabbix.git'
+             location: 'https://github.com/lukecyca/pyzabbix.git',
              description: 'A Zabbix API Python Client '
            }
        ]
