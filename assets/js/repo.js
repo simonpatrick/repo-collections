@@ -241,7 +241,71 @@ var coderepos= new Vue({
              language: 'Javascript',
              location: 'https://github.com/pilwon/ultimate-seed',
              description: 'MEAN FullStack'
+           },
+           {
+             author: 'gogits',
+             category: 'git',
+             language: 'GO',
+             location: 'https://github.com/gogits/gogs',
+             description: 'Go Version of Gitlab'
+           },{
+             author: 'RocketChat',
+             category: 'Chating',
+             language: 'Javascript',
+             location: 'https://github.com/RocketChat/Rocket.Chat',
+             description: 'meteor version chating'
+           },
+           {
+             author: 'nodejitsu',
+             category: 'DevOps',
+             language: 'Javascript',
+             location: 'https://github.com/nodejitsu/node-http-proxy',
+             description: 'Node HTTP Proxy'
+           },{
+             author: 'aleafs',
+             category: 'DevOps',
+             language: 'Javascript',
+             location: 'https://github.com/aleafs',
+             description: 'Node '
+           },{
+             author: 'AaronO',
+             category: 'GITBOOK',
+             language: 'Javascript',
+             location: 'https://github.com/AaronO/',
+             description: 'Several Gitbooks'
+           },{
+             author: 'Node-Webot',
+             category: 'WeChat',
+             language: 'Javascript',
+             location: 'https://github.com/node-webot/wechat-enterprise-im',
+             description: 'wechat enterprise usage'
+           },
+           {
+             author: 'Justor',
+             category: 'DevOps',
+             language: 'Javascript',
+             location: 'https://github.com/junstor/memadmin.git',
+             description: 'Memecached Admin Page'
+           },{
+             author: 'gwhalin',
+             category: 'DevOps',
+             language: 'JAVA',
+             location: 'https://github.com/gwhalin/Memcached-Java-Client',
+             description: 'Memecached Benchmark'
+           },{
+             author: 'leverich',
+             category: 'DevOps',
+             language: 'C',
+             location: 'https://github.com/leverich/mutilate.git',
+             description: 'Memecached Load Generator'
+           },{
+             author: 'twitter',
+             category: 'DevOps',
+             language: 'C',
+             location: 'https://github.com/twitter/twemperf.git',
+             description: 'Memecached Performance Testing'
            }
+
 
        ]
    }

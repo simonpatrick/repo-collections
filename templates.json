@@ -1,7 +1,7 @@
 {
-  author: 'ultimate-seed',
-  category: 'Learning',
+  author: 'Node-Webot',
+  category: 'WeChat',
   language: 'Javascript',
-  location: 'https://github.com/pilwon/ultimate-seed',
-  description: 'MEAN FullStack'
+  location: 'https://github.com/node-webot/wechat-enterprise-im',
+  description: 'wechat enterprise usage'
 }
