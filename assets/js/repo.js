@@ -284,7 +284,7 @@ var coderepos= new Vue({
              author: 'Justor',
              category: 'DevOps',
              language: 'Javascript',
-             location: 'https://github.com/junstor/memadmin.git',
+             location: 'https://github.com/junstormemadmin.git',
              description: 'Memecached Admin Page'
            },{
              author: 'gwhalin',
@@ -304,9 +304,13 @@ var coderepos= new Vue({
              language: 'C',
              location: 'https://github.com/twitter/twemperf.git',
              description: 'Memecached Performance Testing'
+           },{
+             author: 'failf',
+             category: 'Design Pattern',
+             language: 'Python',
+             location: 'https://github.com/faif/python-patterns',
+             description: 'Python Design pattern'
            }
-
-
        ]
    }
 });

@@ -1,7 +1,7 @@
 {
-  author: 'Node-Webot',
-  category: 'WeChat',
-  language: 'Javascript',
-  location: 'https://github.com/node-webot/wechat-enterprise-im',
-  description: 'wechat enterprise usage'
+  author: 'failf',
+  category: 'Design Pattern',
+  language: 'Python',
+  location: 'https://github.com/faif/python-patterns'
+  description: 'Python Design pattern'
 }
