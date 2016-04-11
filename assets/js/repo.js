@@ -310,7 +310,14 @@ var coderepos= new Vue({
              language: 'Python',
              location: 'https://github.com/faif/python-patterns',
              description: 'Python Design pattern'
+           },{
+             author: 'iluwatar',
+             category: 'Design Pattern',
+             language: 'JAVA',
+             location: 'https://github.com/iluwatar/java-design-patterns',
+             description: 'JAVA Design pattern'
            }
+
        ]
    }
 });

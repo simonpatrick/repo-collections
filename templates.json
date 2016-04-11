@@ -1,7 +1,7 @@
 {
-  author: 'failf',
+  author: 'iluwatar',
   category: 'Design Pattern',
-  language: 'Python',
-  location: 'https://github.com/faif/python-patterns'
-  description: 'Python Design pattern'
+  language: 'JAVA',
+  location: 'https://github.com/iluwatar/java-design-patterns',
+  description: 'JAVA Design pattern'
 }
