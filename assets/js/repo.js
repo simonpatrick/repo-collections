@@ -316,7 +316,22 @@ var coderepos= new Vue({
              language: 'JAVA',
              location: 'https://github.com/iluwatar/java-design-patterns',
              description: 'JAVA Design pattern'
+           },{
+             author: 'Max00355',
+             category: 'HTTPLang',
+             language: 'PYTHON',
+             location: 'https://github.com/Max00355/HTTPLang.git',
+             description: 'HTTP Toolkit'
+           },{
+             author: 'brennerm',
+             category: 'Tricks',
+             language: 'PYTHON',
+             location: 'https://github.com/brennerm/PyTricks.git',
+             description: 'Python Inside'
            }
+
+
+
 
        ]
    }
