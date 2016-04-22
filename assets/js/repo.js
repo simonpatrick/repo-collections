@@ -328,11 +328,13 @@ var coderepos= new Vue({
              language: 'PYTHON',
              location: 'https://github.com/brennerm/PyTricks.git',
              description: 'Python Inside'
+           },{
+             author: 'scolesp',
+             category: 'JAVA Thread Dump',
+             language: 'JAVA',
+             location: 'https://github.com/scolesp/ThreadDumpAnalyzers.git',
+             description: 'Java Thread Dump Analyzer'
            }
-
-
-
-
        ]
    }
 });
