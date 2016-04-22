@@ -1,7 +1,7 @@
 {
-  author: 'slarkware',
-  category: 'JAVA Dependency Checking',
+  author: 'babyfish-ct',
+  category: 'DOCS',
   language: 'JAVA',
-  location: 'https://github.com/clarkware/jdepend.git',
-  description: 'Java Dependency Checking'
+  location: 'https://github.com/babyfish-ct/babyfish.git',
+  description: 'Learning Docs'
 }

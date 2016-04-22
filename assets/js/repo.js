@@ -340,8 +340,13 @@ var coderepos= new Vue({
              language: 'JAVA',
              location: 'https://github.com/clarkware/jdepend.git',
              description: 'Java Dependency Checking'
+           },{
+             author: 'babyfish-ct',
+             category: 'DOCS',
+             language: 'JAVA',
+             location: 'https://github.com/babyfish-ct/babyfish.git',
+             description: 'Learning Docs'
            }
-
        ]
    }
 });
