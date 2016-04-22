@@ -334,7 +334,14 @@ var coderepos= new Vue({
              language: 'JAVA',
              location: 'https://github.com/scolesp/ThreadDumpAnalyzers.git',
              description: 'Java Thread Dump Analyzer'
+           },{
+             author: 'slarkware',
+             category: 'JAVA Dependency Checking',
+             language: 'JAVA',
+             location: 'https://github.com/clarkware/jdepend.git',
+             description: 'Java Dependency Checking'
            }
+
        ]
    }
 });

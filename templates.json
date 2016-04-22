@@ -1,7 +1,7 @@
 {
-  author: 'brennerm',
-  category: 'Tricks',
-  language: 'PYTHON',
-  location: 'https://github.com/brennerm/PyTricks.git'
-  description: 'Python Inside'
+  author: 'slarkware',
+  category: 'JAVA Dependency Checking',
+  language: 'JAVA',
+  location: 'https://github.com/clarkware/jdepend.git',
+  description: 'Java Dependency Checking'
 }
